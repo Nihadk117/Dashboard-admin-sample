@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Dashboard-admin/static/css/main.f1940cfe.css",
+    "main.js": "/Dashboard-admin/static/js/main.d886110e.js",
+    "index.html": "/Dashboard-admin/index.html",
+    "main.f1940cfe.css.map": "/Dashboard-admin/static/css/main.f1940cfe.css.map",
+    "main.d886110e.js.map": "/Dashboard-admin/static/js/main.d886110e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1940cfe.css",
+    "static/js/main.d886110e.js"
+  ]
+}
